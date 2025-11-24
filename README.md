@@ -1,0 +1,1 @@
+# Nepali-Handwriting-Recognition-CRNN-OCR-Model
