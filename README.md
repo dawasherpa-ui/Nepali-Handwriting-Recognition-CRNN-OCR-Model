@@ -1,5 +1,4 @@
 # Nepali-Handwriting-Recognition-CRNN-OCR-Model
-6 months ago • Visible to anyone on or off LinkedIn
 
 🚀 Training an OCR Model for Nepali Handwriting Recognition 🇳🇵✍️
 Recently, I worked on training an OCR (Optical Character Recognition) model to recognize handwritten Nepali text in google colab.
